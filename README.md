@@ -4,7 +4,7 @@
   <img src="https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/assets/38637431/faada5c4-376e-47c2-bff5-e7b06ee4784d" width="500" height="500">
 </p>
 
-## Sources
+## Important Files
 1. [API Scraper](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/blob/main/scraper.ipynb)
    - Scraped multiple Steam API's for data on release dates, prices, genres, names, playerbases, and ids of all 90,000 Steam games
 3. [Data Analysis](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/blob/main/analysis.ipynb)
