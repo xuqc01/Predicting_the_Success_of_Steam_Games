@@ -1,5 +1,7 @@
 # Steam_Video_Game_Data_Analysis
 
+![image](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/assets/38637431/faada5c4-376e-47c2-bff5-e7b06ee4784d)
+
 ## Introduction
 
 The objective of this study is to determine the most popular style or genre of Steam's video games. Popularity is gauged by considering either the genre's playerbase, measured by the number of active players, or the sheer volume of games associated with that genre. The ultimate aim of this project is to streamline the game development process by identifying a genre which eliminates one of the crucial steps in creating a successful video game.
