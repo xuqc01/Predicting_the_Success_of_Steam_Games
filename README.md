@@ -4,6 +4,14 @@
   <img src="https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/assets/38637431/faada5c4-376e-47c2-bff5-e7b06ee4784d" width="500" height="500">
 </p>
 
+## Sources
+1. [API Scraper](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/blob/main/scraper.ipynb)
+   - Scraped multiple Steam API's for data on release dates, prices, genres, names, playerbases, and ids of all 90,000 Steam games
+3. [Data Analysis](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/blob/main/analysis.ipynb)
+   - Elaborates and displays findings on the scraped Steam data
+5. [Data Source](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/blob/main/video_game_data_db.sqlite)
+   - The file that stored all of the scraped Steam data
+     
 ## Introduction
 
 The objective of this study is to determine the most popular style or genre of Steam's video games. Popularity is gauged by considering either the genre's playerbase, measured by the number of active players, or the sheer volume of games associated with that genre. The ultimate aim of this project is to streamline the game development process by identifying a genre which eliminates one of the crucial steps in creating a successful video game.
