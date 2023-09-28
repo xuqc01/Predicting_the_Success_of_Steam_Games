@@ -21,7 +21,9 @@ The top 5 tags were determined with a simple linear regression model which calcu
 ## Tag_playerbase Analysis
 The 5 video games genre by average player count in descending order are action, indie, adventure, simulation, and strategy. This is expected because the genre of games that were created the most in the recent years were also indie and action. 
 
-![image](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/assets/38637431/c670bc5a-b8f0-49ea-b88f-8da2bddf60d8)
+<p>
+  <img src="https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/assets/38637431/c670bc5a-b8f0-49ea-b88f-8da2bddf60d8">
+</p>
 
 
 ## Tag_price Analysis
