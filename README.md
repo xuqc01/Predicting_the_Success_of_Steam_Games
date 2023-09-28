@@ -3,6 +3,10 @@
 <p align="center">
   <img src="https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/assets/38637431/faada5c4-376e-47c2-bff5-e7b06ee4784d" width="500" height="500">
 </p>
+     
+## Introduction
+
+The objective of this study is to determine the most popular style or genre of Steam's video games. Popularity is gauged by considering either the genre's playerbase, measured by the number of active players, or the sheer volume of games associated with that genre. The ultimate aim of this project is to streamline the game development process by identifying a genre which eliminates one of the crucial steps in creating a successful video game.
 
 ## Important Files
 1. [API Scraper](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/blob/main/scraper.ipynb)
@@ -11,10 +15,6 @@
    - Elaborates and displays findings on the scraped Steam data
 5. [Data Source](https://github.com/xuqc01/Steam_Video_Game_Data_Analysis/blob/main/video_game_data_db.sqlite)
    - The file that stored all of the scraped Steam data
-     
-## Introduction
-
-The objective of this study is to determine the most popular style or genre of Steam's video games. Popularity is gauged by considering either the genre's playerbase, measured by the number of active players, or the sheer volume of games associated with that genre. The ultimate aim of this project is to streamline the game development process by identifying a genre which eliminates one of the crucial steps in creating a successful video game.
 
 ## Game Distribution Analysis
 A vast majority of Steam games have less than 100 active players. On the other hand, the games Counter-Strike 2, Team Fortress 2, and Dota 2 have over 100,000 concurrent players because of its competitive nature; they require multiple players to compete with one another. Games that require multiple players will always remain on top of the playerbase hierarchy. However, this does not mean that games without the multiplayer trait will have no playerbase. Other factors such as the lack of advertisement, substandard player feedback, or simply poor game development can result in a small playerbase and vise versa. Unfortunately, many of these games, approximately 60,000 of the 90,000 Steam games, have 0 active players. 
